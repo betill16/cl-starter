@@ -21,21 +21,28 @@ def drop():
     option2 = input("Go for the goal, pass it off")
 
     if option2 == "Go for the goal":
-        print("shot the puck and missed and they took it for a breakaway.")
+        print("shot the puck and missed and they took it for a breakaway they missed the first shot but played good defense and ended up scoring a couple minutes later , we were tied 1-1.")
+        print)"After that the game went back and forth from one side of the ice to the other and no one scored again that period"
 
     if option2 == "pass it off":
-        print("I passed it to other teammate Szander, are center. He took the shot and made it we were up ")
+        print("I passed it to other teammate Szander, are center. He took the shot and made it we were up 2-0 ")
+        print)"After that the game went back and forth from one side of the ice to the other and no one scored again that period"
+
         
 
 
 def scoredon():
     print("There was one thing that went are way though, My teammate johnny won the puck drop this time")
     print("He passed to me and with a swift though I")
-if option2 == "Go for the goal":
-        print("shot the puck and missed and they took it for a breakaway.")
+    if option2 == "Go for the goal":
+        print("shot the puck and missed and they took it for a breakaway, they missed the first shot but played good defense and ended up scoring a couple minutes later, we were down 2-0.")
+        print)"After that the game went back and forth from one side of the ice to the other and no one scored again that period"
+
 
     if option2 == "pass it off":
-        print("I passed it to other teammate Szander, are center. He took the shot and made it we were up ")
+        print("I passed it to other teammate Szander, are center. He took the shot and made it we were tied 1-1")
+        print)"After that the game went back and forth from one side of the ice to the other and no one scored again that period"
+
     
 intro()
 
